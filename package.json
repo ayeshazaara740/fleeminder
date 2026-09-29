@@ -15,5 +15,8 @@
   "devDependencies": {
     "typescript": "^5.5.4",
     "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "@vectorize-io/hindsight-client": "^0.10.2"
   }
 }
